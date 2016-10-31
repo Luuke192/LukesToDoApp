@@ -315,7 +315,6 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="w3F-5n-ZUD">
-                                <color key="backgroundColor" red="0.98162633229999996" green="0.98701415039999996" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="135" id="SBX-Ix-rP1"/>
                                 </constraints>
